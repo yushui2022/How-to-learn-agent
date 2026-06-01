@@ -16,7 +16,7 @@
 | [minimal-llm-call](./minimal-llm-call/README.md) | 第 3 章 | 跑通第一次模型调用 |
 | [prompt-iteration](./prompt-iteration/README.md) | 第 4 章 | 对比随意 Prompt 和结构化 Prompt |
 | [structured-output](./structured-output/README.md) | 第 5 章 | 生成可解析输出 |
-| simple-workflow | 第 6 章 | 把模型放进确定流程 |
+| [simple-workflow](./simple-workflow/README.md) | 第 6 章 | 把模型放进确定流程 |
 | local-rag | 第 7 章 | 跑通最小 RAG |
 | tool-calling | 第 9 章 | 让模型调用工具 |
 | simple-agent-loop | 第 11 章 | 实现最小 Agent loop |
