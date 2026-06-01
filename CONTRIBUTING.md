@@ -1,6 +1,6 @@
 # 贡献指南
 
-本项目适合多人共同建设。为了避免章节风格混乱，贡献前请先阅读 [ROADMAP.md](./ROADMAP.md)、[STYLE_GUIDE.md](./STYLE_GUIDE.md) 和 [CHAPTER_TEMPLATE.md](./CHAPTER_TEMPLATE.md)。
+本项目适合多人共同建设。为了避免章节风格混乱，贡献前请先阅读 [ROADMAP.md](./ROADMAP.md)、[CURRICULUM_STRUCTURE.md](./CURRICULUM_STRUCTURE.md)、[LESSON_CASE_STUDIES.md](./LESSON_CASE_STUDIES.md)、[STYLE_GUIDE.md](./STYLE_GUIDE.md) 和 [CHAPTER_TEMPLATE.md](./CHAPTER_TEMPLATE.md)。
 
 ## 当前阶段
 
@@ -8,7 +8,9 @@
 
 - 章节大纲
 - 章节承接关系
+- 成熟项目讲解索引
 - 示例项目设计
+- 源码 Lab 任务设计
 - 代码示例规划
 - 图解规划
 - 术语表
@@ -23,6 +25,7 @@
 | Chapter Outline | 完善某章写作任务、承接关系和边界 |
 | Lesson Draft | 在章节边界确认后补充正文 |
 | Example | 为某章增加可运行的小示例 |
+| Source Lab | 为某类开源项目增加源码阅读任务和项目迁移说明 |
 | Diagram | 为某章增加图解或流程图 |
 | Review | 检查技术准确性、初学者可读性和章节衔接 |
 | Resource | 增加高质量延伸阅读 |
@@ -31,7 +34,7 @@
 
 1. 先在 Issue 中认领一个章节或任务。
 2. 分支命名建议使用 `chapter/04-prompt-outline` 或 `example/07-rag-basic`。
-3. 每个 PR 尽量只处理一个章节、一个示例或一个规划文件。
+3. 每个 PR 尽量只处理一个章节、一个源码 Lab、一个示例或一个规划文件。
 4. PR 描述中说明改了什么、为什么改、影响哪些章节。
 5. 至少检查一次章节是否符合模板和风格规范。
 
@@ -51,9 +54,15 @@ ready        可以进入主目录展示
 
 - 章节是否说明了承接上一章什么。
 - 章节是否说明了为下一章铺垫什么。
+- 章节是否写清楚学习目标和本章产出。
+- 章节是否包含明确学习任务。
+- 章节是否锚定至少一个项目主线。
+- 章节是否包含成熟项目讲解，并说明讲解切口。
+- 章节是否选择了合适的开源案例观察。
+- 如适合源码阅读，是否在成熟项目讲解中链接了对应源码 Lab。
+- 章节是否标出小白易卡点。
 - 本章是否只解决一个主要问题。
 - 是否避免了超出当前章节范围的内容。
 - 示例代码是否能服务本章目标。
 - 是否给初学者解释了必要背景。
 - 是否避免只堆概念、框架名或工具名。
-

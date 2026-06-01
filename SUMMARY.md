@@ -37,9 +37,25 @@
 - [第 17 章：Security 与 Trust](./lessons/17-security-and-trust/README.md)
 - [第 18 章：Production 上线、成本与迭代](./lessons/18-production-and-iteration/README.md)
 
-## 第六部分：综合实战
+## 第六部分：源码 Lab 与标杆项目
+
+- [课程结构重构方案](./CURRICULUM_STRUCTURE.md)
+- [每章成熟项目讲解索引](./LESSON_CASE_STUDIES.md)
+- [源码 Lab 总览](./labs/README.md)
+- [Lab 01：通用核心框架](./labs/01-core-frameworks/README.md)
+- [Lab 02：编程 Agent](./labs/02-coding-agents/README.md)
+- [Lab 03：个人助手与数字分身](./labs/03-personal-assistants/README.md)
+- [Lab 04：多智能体协作](./labs/04-multi-agent/README.md)
+- [Lab 05：记忆、推理与模型服务专项](./labs/05-memory-reasoning/README.md)
+- [Lab 06：浏览器与工具自动化](./labs/06-browser-tools/README.md)
+- [Lab 07：低代码与无代码 Agent 平台](./labs/07-low-code/README.md)
+- [Lab 08：轻量入门与研究级 Agent](./labs/08-lightweight-research/README.md)
+- [开源案例库](./OPEN_SOURCE_CASES.md)
+
+## 第七部分：综合实战
 
 - [综合项目说明](./projects/README.md)
 - [示例代码说明](./examples/README.md)
 - [资料与延伸阅读](./resources/README.md)
 - [统一术语表](./GLOSSARY.md)
+- [项目主线](./PROJECT_TRACKS.md)
