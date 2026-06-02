@@ -20,5 +20,6 @@
 | [local-rag](./local-rag/README.md) | 第 7 章 | 跑通最小 RAG |
 | [rag-evaluation](./rag-evaluation/README.md) | 第 8 章 | 评估检索命中和无答案处理 |
 | [tool-calling](./tool-calling/README.md) | 第 9 章 | 让模型调用工具 |
+| [agent-decision](./agent-decision/README.md) | 第 10 章 | 判断需求是否真的需要 Agent |
 | simple-agent-loop | 第 11 章 | 实现最小 Agent loop |
 | agent-tracing | 第 16 章 | 记录 Agent 执行轨迹 |
