@@ -24,4 +24,5 @@
 | [simple-agent-loop](./simple-agent-loop/README.md) | 第 11 章 | 实现最小 Agent loop |
 | [plan-and-execute](./plan-and-execute/README.md) | 第 12 章 | 拆解任务、执行计划并触发重规划 |
 | [memory-state](./memory-state/README.md) | 第 13 章 | 区分 State、Log 和长期记忆 |
+| [multi-agent-writing](./multi-agent-writing/README.md) | 第 14 章 | 设计角色分工、交接消息和审阅机制 |
 | agent-tracing | 第 16 章 | 记录 Agent 执行轨迹 |
