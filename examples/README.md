@@ -17,7 +17,7 @@
 | [prompt-iteration](./prompt-iteration/README.md) | 第 4 章 | 对比随意 Prompt 和结构化 Prompt |
 | [structured-output](./structured-output/README.md) | 第 5 章 | 生成可解析输出 |
 | [simple-workflow](./simple-workflow/README.md) | 第 6 章 | 把模型放进确定流程 |
-| local-rag | 第 7 章 | 跑通最小 RAG |
+| [local-rag](./local-rag/README.md) | 第 7 章 | 跑通最小 RAG |
 | tool-calling | 第 9 章 | 让模型调用工具 |
 | simple-agent-loop | 第 11 章 | 实现最小 Agent loop |
 | agent-tracing | 第 16 章 | 记录 Agent 执行轨迹 |
