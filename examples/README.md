@@ -22,4 +22,5 @@
 | [tool-calling](./tool-calling/README.md) | 第 9 章 | 让模型调用工具 |
 | [agent-decision](./agent-decision/README.md) | 第 10 章 | 判断需求是否真的需要 Agent |
 | [simple-agent-loop](./simple-agent-loop/README.md) | 第 11 章 | 实现最小 Agent loop |
+| [plan-and-execute](./plan-and-execute/README.md) | 第 12 章 | 拆解任务、执行计划并触发重规划 |
 | agent-tracing | 第 16 章 | 记录 Agent 执行轨迹 |
