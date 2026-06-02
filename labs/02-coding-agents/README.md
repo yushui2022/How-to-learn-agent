@@ -15,7 +15,7 @@
 
 ## 推荐项目
 
-- 主案例：[OpenHands](https://github.com/All-Hands-AI/OpenHands)
+- 主案例：[OpenHands](https://github.com/OpenHands/OpenHands)
 - 主案例：[Aider](https://github.com/paul-gauthier/aider)
 - 辅助案例：[Goose](https://github.com/block/goose)
 - 产品标杆：[Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)
@@ -43,4 +43,3 @@
 ## 写作边界
 
 Claude Code 是闭源产品标杆，只能分析公开文档和可观察行为，不能写成源码级案例。
-

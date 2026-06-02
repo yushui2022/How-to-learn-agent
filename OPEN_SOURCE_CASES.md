@@ -34,7 +34,7 @@
 | [AutoGen](https://github.com/microsoft/autogen) | 12, 14, 15 | 多 Agent 对话、角色协作、任务拆解、协作评估 | 作为 Multi-Agent 章节的对比案例 |
 | [CrewAI](https://github.com/crewAIInc/crewAI) | 12, 14 | 角色、任务、流程编排、多 Agent 应用构建 | 作为 Multi-Agent 编排的对比案例 |
 | [LiteLLM](https://github.com/BerriAI/litellm) | 03, 15, 16, 18 | 模型网关、成本、日志、限流、模型切换和生产化代理层 | 作为生产化章节的工程基础设施案例 |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 09, 11, 12, 15, 16, 17 | 编程 Agent、仓库上下文、命令执行、文件编辑、沙箱和人在回路 | 作为“代码仓库助手”和编程 Agent Lab 的主案例 |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | 09, 11, 12, 15, 16, 17 | 编程 Agent、仓库上下文、命令执行、文件编辑、沙箱和人在回路 | 作为“代码仓库助手”和编程 Agent Lab 的主案例 |
 | [browser-use](https://github.com/browser-use/browser-use) | 09, 11, 17 | 浏览器动作、页面状态、工具调用、安全确认和失败恢复 | 作为浏览器工具自动化 Lab 的主案例 |
 
 ## 八类案例池
@@ -53,7 +53,7 @@
 | 通用核心框架 | AutoGPT | 重点 Lab | 第 10-11 章，自主 Agent 历史案例 |
 | 通用核心框架 | Hermes Agent | 重点 Lab | Lab 01，团队级 Agent 底座和长期记忆、技能学习的进阶观察 |
 | 编程 Agent | Claude Code | 产品标杆 | 闭源，不做源码课；适合作为第 18 章和 Lab 02 的产品行为标杆 |
-| 编程 Agent | OpenHands | 重点 Lab | 第 09、11-12、15-17 章，软件工程 Agent；使用 `All-Hands-AI/OpenHands` 作为主链接 |
+| 编程 Agent | OpenHands | 重点 Lab | 第 09、11-12、15-17 章，软件工程 Agent；使用 `OpenHands/OpenHands` 作为主链接 |
 | 编程 Agent | Aider | 重点 Lab | 第 09、11、16 章，轻量命令行编程 Agent |
 | 编程 Agent | Goose | 重点 Lab | Lab 02，企业编程 Agent、扩展工具和本地执行 |
 | 个人助手 / 数字分身 | OpenClaw | 主线 | 贯穿“AI 学习助手”的产品化参考 |
